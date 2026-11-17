@@ -1,0 +1,7 @@
+﻿standard_id,SiO2,TiO2,Al2O3,FeO,Fe2O3,MnO,MgO,CaO,Na2O,K2O,P2O5,F ,Cl
+albite_spi_mci,68.76,0,19.76,0,0,0,0,0.23,11.68,0.17,0,0,0
+MgO_spi_mci,0,0,0,0,0,0,100,0,0,0,0,0,0
+orthoclase_spi_mci,64.8,0,16.74,0,2.01,0,0,0,0.91,15.49,0,0,0
+wollastonite_spi_mci,51.73,0,0,0,0,0,0,48.28,0,0,0,0,0
+rhodonite_spi_mci,46.78,0,0,0,4.34,42.3,1.95,4.63,0,0,0,0,0
+hematite_spi_mci,0,0,0,0,99.97,0,0,0,0,0,0,0,0
